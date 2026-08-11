@@ -1,0 +1,463 @@
+occupation,group
+Chief executives and legislators,CEO
+General and Operations Managers,Business Manager
+Advertising and Promotions Managers,Business Manager
+Marketing and Sales Managers,Business Manager
+Public Relations and Fundraising Managers,Business Manager
+Administrative Services Managers,Business Manager
+Computer and Information Systems Managers,Business Manager
+Financial Managers,Business Manager
+Compensation and benefits managers,Business Manager
+Human Resources Managers,Administrative Manager
+Training and development managers,Business Manager
+Industrial Production Managers,Business Manager
+Purchasing Managers,Business Manager
+"Transportation, Storage, and Distribution Managers",Operations Manager
+"Farmers, Ranchers, and Other Agricultural Managers",Farmer
+Construction Managers,Operations Manager
+Education Administrators,Administrative Manager
+Architectural and Engineering Managers,Business Manager
+Food Service Managers,Administrative Manager
+Lodging Managers,Business Manager
+Medical and Health Services Managers,Administrative Manager
+Natural Sciences Managers,Business Manager
+"Property, Real Estate, and Community Association Managers",Business Manager
+Social and Community Service Managers,Administrative Manager
+Emergency management directors,Business Manager
+"Miscellaneous managers, including funeral service managers and postmasters and mail superintendents",Business Manager
+"Agents and Business Managers of Artists, Performers, and Athletes",Business Manager
+"Buyers and Purchasing Agents, Farm Products",Business Manager
+"Wholesale and Retail Buyers, Except Farm Products",Business Manager
+"Purchasing Agents, Except Wholesale, Retail, and Farm Products",Business Manager
+"Claims Adjusters, Appraisers, Examiners, and Investigators",Billing Specialist
+Compliance Officers,Administrative Manager
+Cost Estimators,Accountant
+Human Resources Workers,Administrative Manager
+"Compensation, benefits, and job analysis specialists",Administrative Manager
+Training and development specialists,Teacher
+Logisticians,Administrative Manager
+Management Analysts,Business Manager
+"Meeting, Convention, and Event Planners",Administrative Manager
+Fundraisers,Salesperson
+Market Research Analysts and Marketing Specialists,Salesperson
+"Business Operations Specialists, All Other",Administrative Manager
+Accountants and Auditors,Accountant
+Appraisers and Assessors of Real Estate,Real Estate Broker
+Budget Analysts,Billing Specialist
+Credit Analysts,Accountant
+Financial Analysts,Accountant
+Personal Financial Advisors,Accountant
+Insurance Underwriters,Billing Specialist
+Financial Examiners,Billing Specialist
+Credit Counselors and Loan Officers,Billing Specialist
+"Tax Examiners and Collectors, and Revenue Agents",Billing Specialist
+Tax Preparers,Accountant
+"Financial Specialists, All Other",Accountant
+Computer and information research scientists,Scientist
+Computer Systems Analysts,Software Developer
+Information security analysts,Software Developer
+Computer Programmers,Software Developer
+"Software Developers, Applications and Systems Software",Software Developer
+Web Developers,Software Developer
+Computer Support Specialists,Software Developer
+Database Administrators,Software Developer
+Network and Computer Systems Administrators,Software Developer
+Computer network architects,Software Developer
+"Computer occupations, all other",Software Developer
+Actuaries,Accountant
+Operations Research Analysts,Scientist
+"Miscellaneous mathematical science occupations, including mathematicians and statisticians",Scientist
+"Architects, Except Naval",Civil Engineer
+"Surveyors, Cartographers, and Photogrammetrists",Surveying Technician
+Aerospace Engineers,Civil Engineer
+Biomedical and agricultural engineers,Civil Engineer
+Chemical Engineers,Civil Engineer
+Civil Engineers,Civil Engineer
+Computer Hardware Engineers,Civil Engineer
+Electrical and Electronics Engineers,Civil Engineer
+Environmental Engineers,Civil Engineer
+"Industrial Engineers, including Health and Safety",Civil Engineer
+Marine Engineers and Naval Architects,Civil Engineer
+Materials Engineers,Civil Engineer
+Mechanical Engineers,Civil Engineer
+"Petroleum, mining and geological engineers, including mining safety engineers",Civil Engineer
+"Miscellaneous engineers, including nuclear engineers",Civil Engineer
+Drafters,Designer
+"Engineering Technicians, Except Drafters",Engineering Technician
+Surveying and Mapping Technicians,Surveying Technician
+Agricultural and Food Scientists,Scientist
+Biological Scientists,Scientist
+Conservation Scientists and Foresters,Scientist
+"Medical scientists, and life scientists, all other",Scientist
+Astronomers and Physicists,Scientist
+Atmospheric and Space Scientists,Scientist
+Chemists and Materials Scientists,Scientist
+Environmental Scientists and Geoscientists,Scientist
+"Physical Scientists, All Other",Scientist
+Economists,Scientist
+Psychologists,Therapist
+Urban and Regional Planners,Civil Engineer
+"Miscellaneous social scientists, including survey researchers and sociologists",Scientist
+Agricultural and Food Science Technicians,Engineering Technician
+Biological Technicians,Medical Technician
+Chemical Technicians,Engineering Technician
+"Miscellaneous life, physical, and social science technicians, including social science research assistants",Scientist
+Counselors,Counselor
+Social Workers,Social Worker
+Probation officers and correctional treatment specialists,Police Officer
+Social and human service assistants,Social Worker
+"Miscellaneous community and social service specialists, including health educators and community health workers",Social Worker
+Clergy,Religious Leader
+"Directors, Religious Activities and Education",Religious Leader
+"Religious Workers, All Other",Religious Leader
+"Lawyers, and judges, magistrates, and other judicial workers",Lawyer
+Judicial law clerks,Lawyer
+Paralegals and Legal Assistants,Lawyer
+Miscellaneous Legal Support Workers,Lawyer
+Postsecondary Teachers,Teacher
+Preschool and Kindergarten Teachers,Teacher
+Elementary and Middle School Teachers,Teacher
+Secondary School Teachers,Teacher
+Special Education Teachers,Teacher
+Other Teachers and Instructors,Teacher
+"Archivists, Curators, and Museum Technicians",Librarian
+Librarians,Librarian
+Library Technicians,Librarian
+Teacher Assistants,Teacher
+"Other Education, Training, and Library Workers",Teacher
+Artists and Related Workers,Artist
+Designers,Designer
+Actors,Artist
+Producers and Directors,Producer
+"Athletes, Coaches, Umpires, and Related Workers",Athlete
+Dancers and Choreographers,Producer
+"Musicians, Singers, and Related Workers",Artist
+"Entertainers and Performers, Sports and Related Workers, All Other",Artist
+Announcers,Writer
+"News Analysts, Reporters and Correspondents",Artist
+Public Relations Specialists,Salesperson
+Editors,Editor
+Technical Writers,Editor
+Writers and Authors,Writer
+Miscellaneous Media and Communication Workers,Artist
+"Broadcast and sound engineering technicians and radio operators, and media and communication equipment workers, all other",Engineering Technician
+Photographers,Photographer
+"Television, Video, and Motion Picture Camera Operators and Editors",Producer
+Chiropractors,Doctor
+Dentists,Dentist
+Dietitians and Nutritionists,Dietitian
+Optometrists,Doctor
+Pharmacists,Doctor
+Physicians and Surgeons,Doctor
+Physician Assistants,Doctor
+Podiatrists,Doctor
+Audiologists,Therapist
+Occupational Therapists,Therapist
+Physical Therapists,Physical Therapist
+Radiation Therapists,Physical Therapist
+Recreational Therapists,Therapist
+Respiratory Therapists,Therapist
+Speech-Language Pathologists,Therapist
+"Other therapists, including exercise physiologists",Therapist
+Veterinarians,Veterinarian
+Registered Nurses,Nurse
+Nurse anesthetists,Nurse
+Nurse practitioners and nurse midwives,Nurse
+"Health Diagnosing and Treating Practitioners, All Other",Doctor
+Clinical Laboratory Technologists and Technicians,Medical Technician
+Dental Hygienists,Dental Nurse
+Diagnostic Related Technologists and Technicians,Technician
+Emergency Medical Technicians and Paramedics,Nurse
+Health Practitioner Support Technologists and  Technicians,Medical Technician
+Licensed Practical and Licensed Vocational Nurses,Nurse
+Medical Records and Health Information Technicians,Secretary
+"Opticians, Dispensing",Medical Technician
+Miscellaneous Health Technologists and Technicians,Medical Technician
+Other Healthcare Practitioners and Technical Occupations,Doctor
+"Nursing, Psychiatric, and Home Health Aides",Nurse
+Occupational Therapy Assistants and Aides,Therapist
+Physical Therapist Assistants and Aides,Therapist
+Therapists,Therapist
+Dental Assistants,Dental Nurse
+Medical Assistants,Nurse
+Medical transcriptionists,Secretary
+Pharmacy aides,Nurse
+Veterinary assistants and laboratory animal caretakers,Animal Caretaker
+Phlebotomists,Nurse
+"Healthcare support workers, all other, including medical equipment preparers",Nurse
+First-Line Supervisors of Correctional Officers,Administrative Manager
+First-Line Supervisors of Police and Detectives,Operations Manager
+First-Line Supervisors of Fire Fighting and Prevention Workers,Operations Manager
+"First-Line Supervisors of Protective Service Workers, All Other",Administrative Manager
+Firefighters,Firefighter
+Fire Inspectors,Firefighter
+"Bailiffs, Correctional Officers, and Jailers",Police Officer
+Detectives and Criminal Investigators,Police Officer
+Miscellaneous law enforcement workers,Police Officer
+Police officers,Police Officer
+Animal Control Workers,Animal Caretaker
+Private Detectives and Investigators,Police Officer
+Security Guards and Gaming Surveillance Officers,Security Guard
+Crossing Guards,Security Guard
+Transportation security screeners,Security Guard
+"Lifeguards and Other Recreational, and All Other Protective Service Workers",Security Guard
+Chefs and Head Cooks,Chef
+First-Line Supervisors of Food Preparation and Serving Workers,Administrative Manager
+Cooks,Chef
+Food Preparation Workers,Cook
+Bartenders,Bartender
+"Combined Food Preparation and Serving Workers, Including Fast Food",Waiter
+Waiters and Waitresses,Waiter
+"Food Servers, Nonrestaurant",Waiter
+"Miscellaneous food preparation and serving related workers, including dining room and cafeteria attendants and bartender helpers",Waiter
+Dishwashers,Kitchen Helper
+"Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop",Waiter
+First-Line Supervisors of Housekeeping and Janitorial Workers,Administrative Manager
+"First-Line Supervisors of Landscaping, Lawn Service, and Groundskeeping Workers",Operations Manager
+Janitors and Building Cleaners,Cleaner
+Maids and housekeeping cleaners,Cleaner
+Pest Control Workers,Cleaner
+Grounds Maintenance Workers,Landscaper
+First-Line Supervisors of Personal Service Workers,Administrative Manager
+Animal Trainers,Animal Caretaker
+Nonfarm Animal Caretakers,Animal Caretaker
+Gaming Services Workers,Gaming Attendant
+"Ushers, Lobby Attendants, and Ticket Takers",Attendant
+Miscellaneous Entertainment Attendants and Related Workers,Attendant
+Embalmers and Funeral Attendants,Attendant
+"Morticians, undertakers, and funeral directors",Business Manager
+Barbers,Barber
+"Hairdressers, Hairstylists, and Cosmetologists",Hairdresser
+Miscellaneous Personal Appearance Workers,Personal Care Specialist
+"Baggage Porters, Bellhops, and Concierges",Porter
+Tour and Travel Guides,Attendant
+Childcare Workers,Childcare Worker
+Personal Care Aides,Nurse
+Recreation and Fitness Workers,Fitness Worker
+Residential Advisors,Hotel Attendant
+"Personal Care and Service Workers, All Other",Attendant
+First-Line Supervisors of Retail Sales Workers,Business Manager
+First-Line Supervisors of Non-Retail Sales Workers,Business Manager
+Cashiers,Cashier
+Counter and Rental Clerks,Salesperson
+Parts Salespersons,Salesperson
+Retail Salespersons,Salesperson
+Advertising Sales Agents,Salesperson
+Insurance Sales Agents,Salesperson
+"Securities, Commodities, and Financial Services Sales Agents",Salesperson
+Travel Agents,Salesperson
+"Sales Representatives, Services, All Other",Salesperson
+"Sales Representatives, Wholesale and Manufacturing",Salesperson
+"Models, Demonstrators, and Product Promoters",Salesperson
+Real Estate Brokers and Sales Agents,Real Estate Broker
+Sales Engineers,Salesperson
+Telemarketers,Salesperson
+"Door-to-Door Sales Workers, News and Street Vendors, and Related Workers",Salesperson
+"Sales and Related Workers, All Other",Salesperson
+First-Line Supervisors of Office and Administrative Support Workers,Administrative Manager
+"Switchboard Operators, Including Answering Service",Secretary
+Telephone Operators,Secretary
+Bill and Account Collectors,Billing Specialist
+Billing and Posting Clerks,Billing Specialist
+"Bookkeeping, Accounting, and Auditing Clerks",Accountant
+Payroll and Timekeeping Clerks,Billing Specialist
+Procurement Clerks,Secretary
+Tellers,Bank Teller
+"Financial clerks, all other",Billing Specialist
+"Court, Municipal, and License Clerks",Religious Leader
+"Credit Authorizers, Checkers, and Clerks",Billing Specialist
+Customer Service Representatives,Salesperson
+"Eligibility Interviewers, Government Programs",Secretary
+File Clerks,Secretary
+"Hotel, Motel, and Resort Desk Clerks",Hotel Attendant
+"Interviewers, Except Eligibility and Loan",Editor
+"Library Assistants, Clerical",Librarian
+Loan Interviewers and Clerks,Billing Specialist
+New Accounts Clerks,Religious Leader
+Correspondence clerks and order clerks,Secretary
+"Human resources assistants, except payroll and timekeeping",Secretary
+Receptionists and Information Clerks,Secretary
+Reservation and Transportation Ticket Agents and Travel Clerks,Salesperson
+"Information and Record Clerks, All Other",Secretary
+Cargo and Freight Agents,Driver
+Couriers and Messengers,Driver
+Dispatchers,Secretary
+"Meter Readers, Utilities",Engineering Technician
+Postal Service Clerks,Secretary
+Postal Service Mail Carriers,Mail Carrier
+"Postal Service Mail Sorters, Processors, and Processing Machine Operators",Secretary
+"Production, Planning, and Expediting Clerks",Secretary
+"Shipping, Receiving, and Traffic Clerks",Production Worker
+Stock Clerks and Order Fillers,Stock Clerk
+"Weighers, Measurers, Checkers, and Samplers, Recordkeeping",Production Worker
+Secretaries and Administrative Assistants,Secretary
+Data Entry Keyers,Secretary
+Word Processors and Typists,Editor
+Insurance Claims and Policy Processing Clerks,Billing Specialist
+"Mail Clerks and Mail Machine Operators, Except Postal Service",Religious Leader
+"Office Clerks, General",Secretary
+"Office Machine Operators, Except Computer",Secretary
+Proofreaders and Copy Markers,Editor
+Statistical Assistants,Scientist
+"Miscellaneous office and administrative support workers, including desktop publishers",Secretary
+"First-line supervisors of farming, fishing, and forestry workers",Operations Manager
+Agricultural Inspectors,Farmer
+"Graders and Sorters, Agricultural Products",Farmer
+"Miscellaneous agricultural workers, including animal breeders",Farmer
+Fishing and hunting workers,Farmer
+Forest and Conservation Workers,Logger
+Logging Workers,Logger
+First-Line Supervisors of Construction Trades and Extraction Workers,Operations Manager
+Boilermakers,Welder
+"Brickmasons, blockmasons, stonemasons, and reinforcing iron and rebar workers",Construction Worker
+Carpenters,Carpenter
+"Carpet, Floor, and Tile Installers and Finishers",Construction Worker
+"Cement Masons, Concrete Finishers, and Terrazzo Workers",Construction Worker
+Construction Laborers,Construction Worker
+"Construction equipment operators except paving, surfacing, and tamping equipment operators",Construction Worker
+"Drywall Installers, Ceiling Tile Installers, and Tapers",Construction Worker
+Electricians,Electrician
+Glaziers,Construction Worker
+Insulation Workers,Construction Worker
+Painters and paperhangers,Construction Worker
+"Pipelayers, Plumbers, Pipefitters, and Steamfitters",Plumber
+Plasterers and Stucco Masons,Construction Worker
+Roofers,Construction Worker
+Sheet Metal Workers,Welder
+Structural Iron and Steel Workers,Construction Worker
+"Helpers, Construction Trades",Construction Worker
+Construction and Building Inspectors,Construction Worker
+Elevator Installers and Repairers,Auto Mechanic
+Fence Erectors,Construction Worker
+Hazardous Materials Removal Workers,Construction Worker
+Highway Maintenance Workers,Construction Worker
+Rail-Track Laying and Maintenance Equipment Operators,Rail Worker
+"Miscellaneous construction workers, including solar photovoltaic installers, septic tank servicers and sewer pipe cleaners",Construction Worker
+"Derrick, rotary drill, and service unit operators, and roustabouts, oil, gas, and mining",Miner
+"Earth Drillers, Except Oil and Gas",Construction Worker
+"Explosives Workers, Ordnance Handling Experts, and Blasters",Miner
+Mining Machine Operators,Miner
+"Miscellaneous extraction workers, including roof bolters and helpers",Miner
+"First-Line Supervisors of Mechanics, Installers, and Repairers",Operations Manager
+"Computer, Automated Teller, and Office Machine Repairers",Auto Mechanic
+Radio and Telecommunications Equipment Installers and Repairers,Auto Mechanic
+Avionics Technicians,Auto Mechanic
+"Electric Motor, Power Tool, and Related Repairers",Auto Mechanic
+"Electrical and electronics repairers, transportation equipment, and industrial and utility",Auto Mechanic
+Electronic Home Entertainment Equipment Installers and Repairers,Auto Mechanic
+Security and Fire Alarm Systems Installers,Electrician
+Aircraft Mechanics and Service Technicians,Auto Mechanic
+Automotive Body and Related Repairers,Auto Mechanic
+Automotive Glass Installers and Repairers,Auto Mechanic
+Automotive Service Technicians and Mechanics,Auto Mechanic
+Bus and Truck Mechanics and Diesel Engine Specialists,Auto Mechanic
+Heavy Vehicle and Mobile Equipment Service Technicians and Mechanics,Auto Mechanic
+Small Engine Mechanics,Auto Mechanic
+"Miscellaneous Vehicle and Mobile Equipment Mechanics, Installers, and Repairers",Auto Mechanic
+Control and Valve Installers and Repairers,Auto Mechanic
+"Heating, Air Conditioning, and Refrigeration Mechanics and Installers",Auto Mechanic
+Home Appliance Repairers,Auto Mechanic
+Industrial and Refractory Machinery Mechanics,Auto Mechanic
+"Maintenance and Repair Workers, General",Auto Mechanic
+"Maintenance Workers, Machinery",Auto Mechanic
+Millwrights,Auto Mechanic
+Electrical Power-Line Installers and Repairers,Electrician
+Telecommunications Line Installers and Repairers,Electrician
+Precision Instrument and Equipment Repairers,Auto Mechanic
+"Coin, Vending, and Amusement Machine Servicers and Repairers",Auto Mechanic
+Locksmiths and Safe Repairers,Auto Mechanic
+Riggers,Construction Worker
+"Helpers--Installation, Maintenance, and Repair Workers",Auto Mechanic
+"Miscellaneous installation, maintenance, and repair workers, including wind turbine service technicians",Auto Mechanic
+First-Line Supervisors of Production and Operating Workers,Operations Manager
+"Electrical, Electronics, and Electromechanical Assemblers",Production Worker
+Engine and Other Machine Assemblers,Production Worker
+Structural Metal Fabricators and Fitters,Welder
+Miscellaneous Assemblers and Fabricators,Production Worker
+Bakers,Baker
+"Butchers and Other Meat, Poultry, and Fish Processing Workers",Production Worker
+"Food and Tobacco Roasting, Baking, and Drying Machine Operators and Tenders",Production Worker
+Food Batchmakers,Baker
+Food Cooking Machine Operators and Tenders,Production Worker
+"Food processing workers, all other",Production Worker
+Computer Control Programmers and Operators,Machinist
+"Extruding and Drawing Machine Setters, Operators, and Tenders, Metal and Plastic",Production Worker
+"Machine tool cutting setters, operators, and tenders, metal and plastic",Machinist
+Machinists,Machinist
+"Metal Furnace Operators, Tenders, Pourers, and Casters",Production Worker
+"Model makers, patternmakers, and molding machine setters, metal and plastic",Machinist
+Tool and Die Makers,Machinist
+"Welding, Soldering, and Brazing Workers",Welder
+"Miscellaneous metal workers and plastic workers, including multiple machine tool setters",Construction Worker
+Prepress Technicians and Workers,Production Worker
+Printing Press Operators,Production Worker
+Print Binding and Finishing Workers,Production Worker
+Laundry and Dry-Cleaning Workers,Cleaner
+"Pressers, Textile, Garment, and Related Materials",Production Worker
+Sewing Machine Operators,Production Worker
+Shoe and leather workers,Production Worker
+"Tailors, Dressmakers, and Sewers",Production Worker
+"Textile Winding, Twisting, and Drawing Out Machine Setters, Operators, and Tenders",Production Worker
+Upholsterers,Production Worker
+"Miscellaneous textile, apparel, and furnishings workers except upholsterers",Production Worker
+Cabinetmakers and Bench Carpenters,Carpenter
+Furniture Finishers,Carpenter
+"Sawing Machine Setters, Operators, and Tenders, Wood",Production Worker
+"Woodworking Machine Setters, Operators, and Tenders, Except Sawing",Production Worker
+"Miscellaneous woodworkers, including model makers and patternmakers",Model Maker
+"Power Plant Operators, Distributors, and Dispatchers",Auto Mechanic
+Stationary Engineers and Boiler Operators,Auto Mechanic
+Water and Wastewater Treatment Plant and System Operators,Auto Mechanic
+Miscellaneous Plant and System Operators,Auto Mechanic
+"Chemical Processing Machine Setters, Operators, and Tenders",Production Worker
+"Crushing, Grinding, Polishing, Mixing, and Blending Workers",Production Worker
+Cutting Workers,Production Worker
+"Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders",Production Worker
+"Furnace, Kiln, Oven, Drier, and Kettle Operators and Tenders",Production Worker
+"Inspectors, Testers, Sorters, Samplers, and Weighers",Production Worker
+Jewelers and Precious Stone and Metal Workers,Production Worker
+"Medical, Dental, and Ophthalmic Laboratory Technicians",Medical Technician
+Packaging and Filling Machine Operators and Tenders,Production Worker
+Painting Workers,Production Worker
+Photographic Process Workers and Processing Machine Operators,Production Worker
+Adhesive Bonding Machine Operators and Tenders,Production Worker
+Etchers and Engravers,Production Worker
+"Molders, Shapers, and Casters, Except Metal and Plastic",Production Worker
+"Paper Goods Machine Setters, Operators, and Tenders",Production Worker
+Tire Builders,Production Worker
+Helpers--Production Workers,Production Worker
+"Miscellaneous production workers, including semiconductor processors",Production Worker
+Supervisors of Transportation and Material Moving Workers,Administrative Manager
+Aircraft Pilots and Flight Engineers,Pilot
+Air Traffic Controllers and Airfield Operations Specialists,Air Traffic Controller
+Flight Attendants,Attendant
+"Ambulance Drivers and Attendants, Except Emergency Medical Technicians",Driver
+Bus Drivers,Bus Driver
+Driver/Sales Workers and Truck Drivers,Driver
+Taxi Drivers and Chauffeurs,Taxi Driver
+"Motor Vehicle Operators, All Other",Driver
+Locomotive Engineers and Operators,Rail Worker
+"Subway, streetcar, and other rail transportation workers",Rail Worker
+"Sailors and marine oilers, and ship engineers",Sailor
+Ship and Boat Captains and Operators,Sailor
+Parking Lot Attendants,Porter
+Automotive and Watercraft Service Attendants,Attendant
+Transportation Inspectors,Driver
+"Transportation attendants, except flight attendants",Porter
+"Miscellaneous transportation workers, including bridge and lock tenders and traffic technicians",Driver
+Crane and Tower Operators,Construction Worker
+"Conveyor operators and tenders, and hoist and winch operators",Production Worker
+Industrial Truck and Tractor Operators,Truck Driver
+Cleaners of Vehicles and Equipment,Cleaner
+"Laborers and Freight, Stock, and Material Movers, Hand",Stock Clerk
+Machine Feeders and Offbearers,Production Worker
+"Packers and Packagers, Hand",Packager
+Pumping Station Operators,Auto Mechanic
+Refuse and Recyclable Material Collectors,Production Worker
+"Miscellaneous material moving workers, including mine shuttle car operators, and tank car, truck, and ship loaders",Production Worker
+Military Officer Special and Tactical Operations Leaders,Soldier
+First-Line Enlisted Military Supervisors,Soldier
+Military Enlisted Tactical Operations and Air/Weapons Specialists and Crew Members,Soldier
+"Military, Rank Not Specified",Soldier
+"Unemployed, with No Work Experience in the Last 5 Years or Earlier or Never Worked",Unemployed
+NIU,Unemployed
