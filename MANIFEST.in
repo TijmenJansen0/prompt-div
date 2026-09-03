@@ -1,2 +1,2 @@
-include README.md LICENSE
-recursive-include promptdiv/data *.csv
+include README.md LICENSE CHANGELOG.md
+recursive-include promptdiv/data *.csv *.csv.gz

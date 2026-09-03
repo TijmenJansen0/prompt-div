@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "promptdiv"
-version = "0.1.0"
+version = "0.2.0"
 description = "Census-grounded prompt augmentation that makes text-to-image models render demographically representative people."
 readme = "README.md"
 requires-python = ">=3.9"
@@ -14,8 +14,8 @@ keywords = ["text-to-image", "diffusion", "fairness", "representation", "bias", 
 dependencies = ["numpy>=1.21", "pandas>=1.3"]
 
 [project.urls]
-Homepage = "https://github.com/tijmenjansen/prompt-div"
-Repository = "https://github.com/tijmenjansen/prompt-div"
+Homepage = "https://github.com/TijmenJansen0/prompt-div"
+Repository = "https://github.com/TijmenJansen0/prompt-div"
 
 [tool.setuptools]
 packages = ["promptdiv"]

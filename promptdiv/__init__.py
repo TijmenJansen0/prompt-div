@@ -2,4 +2,4 @@
 from .core import DiversityModule, apply_prompt_diversity, enable_diversity
 
 __all__ = ["DiversityModule", "apply_prompt_diversity", "enable_diversity"]
-__version__ = "0.1.0"
+__version__ = "0.2.0"
