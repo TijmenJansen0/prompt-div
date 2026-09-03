@@ -28,21 +28,45 @@ Zenodo, not in the branch history.
 
 ## 2. Tag the release
 
-On the repo page: **Releases → Draft a new release → Choose a tag →** type
-`v0.2.0` → title `v0.2.0` → paste the top section of `CHANGELOG.md` as the
-description → **Publish release**.
+On the repo page: **Releases → Draft a new release → Choose a tag →** pick the
+existing `v0.2.0` → title `v0.2.0` → paste the top section of `CHANGELOG.md` as
+the description → **Publish release**.
 
-Zenodo is already watching the repository, so publishing the release mints a new
-version DOI automatically. The concept DOI in the README
-(10.5281/zenodo.21889100) keeps resolving to the latest, so it needs no edit.
+Zenodo is watching the repository, so publishing the release mints a new version
+DOI automatically. The concept DOI in the README (10.5281/zenodo.21889100) keeps
+resolving to the latest, so it needs no edit.
 
-## 3. Publish to PyPI
+**A Zenodo record is permanent.** Publishing the release archives a copy of
+`promptdiv/data/census.csv.gz` under a registered DOI, and Zenodo records are not
+designed to be withdrawn — new versions supersede old ones, they do not replace
+them. A git commit can be rewritten; this cannot. So settle the IPUMS
+redistribution question in section 3 **before** publishing the release, not
+after.
+
+## 3. PyPI — not published
+
+`promptdiv` is **not** on PyPI, and never has been. The README installs from git
+instead, which is why it says `pip install git+https://...`.
+
+Two things to settle before that changes:
+
+1. **IPUMS redistribution.** Their terms permit publishing a subset of sample
+   data "to meet journal requirements for accessing data related to a particular
+   publication", and route anything else through permission, which they say they
+   grant for free redistribution. `promptdiv/data/census.csv.gz` is a derived
+   weighted cross-tabulation rather than the microdata, but 50,586 of its
+   163,753 cells stand for fewer than 100 people, so it is not obviously a
+   summary table either. Email IPUMS before shipping it to a package index.
+2. **The name.** Check `promptdiv` is still free on PyPI, and bump the version
+   for every upload — PyPI will not accept the same version twice.
+
+If both clear:
 
 ```bash
 python -m pip install -U build twine
 python -m build
-twine check dist/*
-twine upload dist/*
+python -m twine check dist/*
+python -m twine upload dist/*
 ```
 
 The wheel must contain `promptdiv/data/census.csv.gz` — check with

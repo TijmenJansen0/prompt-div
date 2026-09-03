@@ -21,10 +21,10 @@ apply_prompt_diversity("an ad for a nurse in a hospital")
 ## Installation
 
 ```bash
-pip install promptdiv
+pip install git+https://github.com/TijmenJansen0/prompt-div
 ```
 
-From source: `git clone https://github.com/TijmenJansen0/prompt-div && cd prompt-div && pip install -e .`
+Or from a clone: `git clone https://github.com/TijmenJansen0/prompt-div && cd prompt-div && pip install -e .`
 
 The bundled US Census distribution is included, so nothing else is needed.
 
@@ -180,7 +180,7 @@ Add a `post` column for text that has to follow the subject rather than precede 
 
 **Adults only (18+).** The paper measures adults, and a tool that rewrites prompts for image generators should not be asking them to render children.
 
-Raw IPUMS microdata are not redistributed here (IPUMS licensing); the package ships aggregated weighted cell counts.
+The bundled file is **not** IPUMS microdata: it is a weighted cross-tabulation derived from an IPUMS USA ACS extract, in which identical people are collapsed into cells carrying a summed population weight. IPUMS terms restrict redistribution of their sample data, so if you build on this, get your own extract from [usa.ipums.org](https://usa.ipums.org) and cite IPUMS.
 
 ## Evaluation
 
